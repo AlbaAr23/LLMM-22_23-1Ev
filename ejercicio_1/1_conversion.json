@@ -8,18 +8,31 @@
             "curso": "1º",
             "ciclo": "Educacion Infantil"
         
-        }
+        },
 
-        "Hobbies": [
+        "Hobbies":[
             "ser un meme",
             "futbol",
             "cosas de rusos"
-        ]
-        "asignaturas":{
-            "titulo":"",
-            "profesor":""
+        ],
+        "asignaturas":[
+            {
+                "titulo":"Lenguaje de mascas",
+                "profesor":"Rodri"
+            },
 
-        }
+            {
+                "titulo":"Ingles",
+                "profesor":"Olaya"
+            },
+
+            {
+                "titulo":"programacion",
+                "profesor":"pelayo"  
+            }
+
+
+        ]
     }
 
     
